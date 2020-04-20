@@ -1,0 +1,7 @@
+ALU64bit -
+
+op[1:0] :
+2'b00 - bitwise NOR
+2'b01 - bitwise XOR
+2'b10 - add
+2'b11 - subtract
